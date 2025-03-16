@@ -1,0 +1,9 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Environment file containing sensitive credentials
+.env
+
+# Selenium logs or any temporary files
+selenium_logs/
