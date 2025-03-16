@@ -23,7 +23,7 @@ To use this script, you must have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/linkedin-automation.git
+   git clone https://github.com/ReemOmer/LinkedInMessenger.git
    cd linkedin-automation
     ```
 
