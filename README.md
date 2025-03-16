@@ -24,7 +24,7 @@ To use this script, you must have:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ReemOmer/LinkedInMessenger.git
-   cd linkedin-automation
+   cd LinkedInMessenger
     ```
 
 2. Install the required dependencies:
@@ -42,7 +42,7 @@ To use this script, you must have:
 To run the script, use the following command:
    ```bash
     python accept_invitations.py
-    ```
+```
 
 ## Notes
 - Make sure to use the correct path for the chromedriver.exe file in the script.
